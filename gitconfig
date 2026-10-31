@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = deimanita@yahoo.de
+	name = Anita SD
